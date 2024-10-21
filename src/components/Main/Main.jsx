@@ -17,8 +17,7 @@ const Main = () => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization:
-            "Bearer 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",
+          Authorization: "Bearer open api key",
           "User-Agent": "Chrome",
         },
         body: JSON.stringify({
